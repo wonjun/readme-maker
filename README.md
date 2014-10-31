@@ -20,6 +20,14 @@ By: Person1, Person2, Person3, Person 4
 - Have everyone submit a pull request, without merging, with their name replacing Person1, Person2, etc.
 - As soon as there are 4 PRs (or less if you have less members) merge in the changes one by one.
 - Fix conflicts as they come up!
+- To fix a unmergeable branch:
+    - On the branch do ```git pull origin master```
+    - ```git status``` to figure out which files need to be fixed
+    - open the file, delete the <<<< >>>>> lines, save the final version you want it to be
+    - ``` git add <filename>``` OR ``` git add . ``` to tell git you want to commit it
+    - ``` git commit -m "Fix merge conflict```
+    - ``` git push -u origin HEAD ```
+    - Go on github, and try to merge it now!
 
 #### Final Submit
 - Fill out the [Google Form](http://goo.gl/eI6VqB) with your project team
