@@ -43,5 +43,6 @@ git push -u origin HEAD
 git status
 git log
 
-If you need to know what these commands do, google search them! And if still confusing, ask one of the TAs for help
+If you need to know what these commands do, google search them! And if still confusing, 
+ask one of the TAs for help :D
 ```
