@@ -1,6 +1,6 @@
 # Lab 8: Starting your Group Project
 
-#### Step 1:
+#### Step 1: Making friends :D
 - Get into your project groups
 
 #### Step 2: First Pull Request
