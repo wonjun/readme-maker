@@ -32,7 +32,7 @@ By: Person1, Person2, Person3, Person 4
 #### Final Submit
 - Fill out the [Google Form](http://goo.gl/eI6VqB) with your project team
 
-#### Quick Git Commands:
+## Quick Git Commands:
 ```
 git add -A 
 git commit -m "commit message"
