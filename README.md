@@ -5,6 +5,7 @@
 
 #### Step 2: First Pull Request
 - Create a repo on github on one of the user's accounts, with an initial README
+- Name it anything you wish :)
 - Have everyone clone the repo
 - Have one person pullrequest the following into the README.MD
 - Have another person comment "Looks great!" and merge it in
@@ -20,6 +21,8 @@ By: Person1, Person2, Person3, Person 4
 - As soon as there are 4 PRs (or less if you have less members) merge in the changes one by one.
 - Fix conflicts as they come up!
 
+#### Final Submit
+- Fill out the [Google Form](http://goo.gl/eI6VqB) with your project team
 
 #### Quick Git Commands:
 ```
