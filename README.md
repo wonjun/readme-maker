@@ -28,6 +28,8 @@ By: Person1, Person2, Person3, Person 4
     - ``` git commit -m "Fix merge conflict```
     - ``` git push -u origin HEAD ```
     - Go on github, and try to merge it now!
+- If you're running out of time, just do one merge conflict example:
+    - i.e have person1 fill out person1, and have person2 fill out person2,person3,person4
 
 #### Final Submit
 - Fill out the [Google Form](http://goo.gl/eI6VqB) with your project team
